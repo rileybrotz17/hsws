@@ -20,11 +20,11 @@
 # a. Make the following variable assignments in R. (Tip: just uncomment the lines, select them,
 # and click 'Run')
 #
-# r = exp(2)         	# exponential function
-# q = abs(3 - 7)     	# Absolute value of (3-7)
-# y = "TRUE"    			
-# x = FALSE
-# z = NA
+ r = exp(2)         	 #exponential function
+ q = abs(3 - 7)     	Absolute value of (3-7)
+ y = "TRUE"    			
+ x = FALSE
+ z = NA
 #
 # b. Using R, find and print the class of each variable. What do you notice about variable y?
 

@@ -3,12 +3,11 @@
 
 # clear the workspace
 rm(list=ls())
-
 # EDIT HERE: suppose we had a single package of mms with the following counts:
 # of the following colors:
 # this will double as both labels and as colors for the bars:
-mvl=c("red", "blue", "green", "yellow", "orange", "brown");
-mv =c(   4,      5,       3,        2,        1,       3)
+mvl=c("red", "blue", "green", "yellow", "orange", "brown")
+mv =c(   22,      14,       18,        24,        14,       8)
 
 # associate the color names with the color counts
 names(mv) = mvl
